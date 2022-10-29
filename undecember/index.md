@@ -2,7 +2,7 @@
 
 # Lindol's Undecember Ultimate Guides
 
-*This page is located at [https://lindolguides.github.io/guides/dimmo/](https://lindolguides.github.io/guides/undecember/)*\
+*This page is located at [https://lindolguides.github.io/guides/undecember/](https://lindolguides.github.io/guides/undecember/)*\
 *Feel free to update the pages and open a pull request*
 
 
