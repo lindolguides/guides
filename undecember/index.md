@@ -1,6 +1,8 @@
-# Undecember Ultimate Guides
+[Back](../)
 
-*This page is located at [https://lindolundecember.github.io/guides/](https://lindolundecember.github.io/guides/)*\
+# Lindol's Undecember Ultimate Guides
+
+*This page is located at [https://lindolguides.github.io/guides/dimmo/](https://lindolguides.github.io/guides/undecember/)*\
 *Feel free to update the pages and open a pull request*
 
 
@@ -24,5 +26,5 @@
 ## Links
 - [Youtube content creators](./)
 
-## My Other Guides
-- [Diablo Immortal](https://lindoldimmo.github.io/guides/)
+
+[Back to top](./#)
