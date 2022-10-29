@@ -1,6 +1,6 @@
 # Lindol's Ultimate Guides
 
-Hosted: [https://lindolguides.github.io/pub](https://lindolguides.github.io/pub)
+Hosted: [https://lindolguides.github.io/guides](https://lindolguides.github.io/guides)
 
 - [Diablo 4](./diablo4/)
 - [Diablo Immortal](./dimmo/)
