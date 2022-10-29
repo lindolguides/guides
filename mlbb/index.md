@@ -1,5 +1,6 @@
 [Back](../)
 
+----
 
 # Lindol's Mobile Legends Ultimate Guides
 
@@ -24,5 +25,6 @@
 - [Layla](./layla/)
 - [Minotaur](./minotaur/)
 
+----
 
 [Back to top](./#)
