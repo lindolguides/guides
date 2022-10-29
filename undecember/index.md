@@ -1,5 +1,7 @@
 [Back](../)
 
+----
+
 # Lindol's Undecember Ultimate Guides
 
 *This page is located at [https://lindolguides.github.io/guides/undecember/](https://lindolguides.github.io/guides/undecember/)*\
@@ -11,11 +13,11 @@
 - [Undecember Media](https://undecember.line.games/#sixPage)
 
 ## Class Guides
-- [Warrior - Whirlwind](./)
-- [Sentry - Sentry build](./)
+- [Barbarian - Whirlwind](./)
+- [Battlemage - Melee magic based build](./)
 - [Hunter - Range attacker](./)
 - [Mage - Caster](./)
-- [Battlemage - Melee magic based build](./)
+- [Sentry - Sentry build](./)
 
 ## Main Guides
 - [Leveling](./leveling/)
@@ -26,5 +28,6 @@
 ## Links
 - [Youtube content creators](./)
 
+----
 
 [Back to top](./#)
