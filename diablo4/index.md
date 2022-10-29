@@ -6,4 +6,17 @@
 *Feel free to update the pages and open a pull request*
 
 
+## Class
+
+- [Assassin](./)
+- [Barbarian](./)
+- [Druid](./)
+- [Necromancer](./)
+- [Wizard](./)
+
+
+## Items
+
+
+
 [Back to top](./#)
