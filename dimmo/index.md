@@ -1,6 +1,8 @@
+[Back](../)
+
 # Diablo Immortal Ultimate Guides
 
-*This page is located at [https://lindoldimmo.github.io/guides/](https://lindoldimmo.github.io/guides/)*\
+*This page is located at [https://lindolguides.github.io/guides/dimmo/](https://lindolguides.github.io/guides/dimmo/)*\
 *Feel free to update the pages and open a pull request*
 
 **Stay updated:** [Diablo Immortal News](https://news.blizzard.com/en-us/diablo-immortal/)
@@ -24,5 +26,6 @@
 - [Green Set Items](./greens/)
 - [Immortal - Corvus Expedition](./corvus/)
 
-## My Other Guides
-- [Undecember](https://lindolundecember.github.io/guides/)
+
+
+[Back to top](./#)
