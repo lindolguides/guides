@@ -1,5 +1,7 @@
 [Back](../)
 
+----
+
 # Lindol's Diablo Immortal Ultimate Guides
 
 *This page is located at [https://lindolguides.github.io/guides/dimmo/](https://lindolguides.github.io/guides/dimmo/)*\
@@ -26,5 +28,6 @@
 - [Green Set Items](./greens/)
 - [Immortal - Corvus Expedition](./corvus/)
 
+----
 
 [Back to top](./#)
