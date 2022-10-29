@@ -11,7 +11,7 @@
 ## Pictures
 - [Ultimate Warband @ Baal Server](./pix/)
 
-## Class Guides
+## Class
 - [Barbarian](./barbarian/)  ([PVE](./barbarian/#pve) - [PVP](./barbarian/#pvp))
 - [Crusader](./crusader/) ([PVE](./crusader/#pve) - [PVP](./crusader/#pvp))
 - [Demon Hunter](./dh/) ([PVE](./dh/#pve) - [PVP](./dh/#pvp))
