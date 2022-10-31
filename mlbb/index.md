@@ -19,11 +19,11 @@
 
 ## Heroes
 
-- [Eudora](./eudora/)
-- [Gatotkaca](./gatotkaca/)
-- [Jawhead](./jawhead/)
-- [Layla](./layla/)
-- [Minotaur](./minotaur/)
+- [Eudora](./heroes/eudora/)
+- [Gatotkaca](./heroes/gatotkaca/)
+- [Jawhead](./heroes/jawhead/)
+- [Layla](./heroes/layla/)
+- [Minotaur](./heroes/minotaur/)
 
 ----
 
