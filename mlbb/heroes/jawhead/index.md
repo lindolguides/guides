@@ -11,6 +11,9 @@
 - 1, 3, 2
 
 ## Skills
+-  If denying level 1, get Skill 2
+-  If creep stealing level 1, get skill 1
+-  Priority: 1, 3, 2
 
 ### Basic
 - [ ] Magic Boots
