@@ -15,28 +15,28 @@
 -  Priority: 1, 2, 3
 
 ### Basic
-- [ ] Magic Boots
-- [ ] Dominance Ice
-- [ ] Hunter Strike
-- [ ] Thunder Belt
-- [ ] Immortality
-- [ ] Athena's Shield
+- [ ] - Tough Boots
+- [ ] - Dominance Ice
+- [ ] - Hunter Strike
+- [ ] - Thunder Belt
+- [ ] - Immortality
+- [ ] - Athena's Shield
 
 ### Damage
-- [ ] Magic Boots
-- [ ] Hunter Strike
-- [ ] Blade of Despair
-- [ ] Malefic Roar
-- [ ] Endless Battle
-- [ ] Immortality
+- [ ] - Tough Boots
+- [ ] - Hunter Strike
+- [ ] - Blade of Despair
+- [ ] - Malefic Roar
+- [ ] - Endless Battle
+- [ ] - Immortality
 
 ### Tank / Anti MM
-- [ ] Warrior Boots
-- [ ] Dominance Ice
-- [ ] Antique Curiass
-- [ ] Thunder Belt
-- [ ] Immortality
-- [ ] Blade Armor
+- [ ] - Warrior Boots
+- [ ] - Dominance Ice
+- [ ] - Antique Curiass
+- [ ] - Thunder Belt
+- [ ] - Immortality
+- [ ] - Blade Armor
 
 ----
 
