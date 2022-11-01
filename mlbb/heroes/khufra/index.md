@@ -9,8 +9,8 @@
 - 1, 3, 2
 
 ## Skills
-- Get Skill 1 and gank!
-- Level priority: 1, 3, 2
+- Start: Skill 1 and kill MID!
+- Priority: 1, 3, 2
 
 ### Basic
 - [ ] Tough Boots
