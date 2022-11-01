@@ -9,7 +9,8 @@
 - Kill 2, 1, 3, 2, 1
 
 ## Skills
-- 2***, 1*, 3**
+- Get Skill 2 then
+- 1, 3, 2
 
 ### Basic
 - [ ] Magic Boots
