@@ -22,8 +22,8 @@
 - [Eudora](./heroes/eudora/)
 - [Gatotkaca](./heroes/gatotkaca/)
 - [Jawhead](./heroes/jawhead/)
+- [Khufra](./heroes/khufra/)
 - [Layla](./heroes/layla/)
-- [Minotaur](./heroes/minotaur/)
 
 ----
 
