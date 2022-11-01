@@ -14,12 +14,12 @@
 - Priority: 3, 2, 1
 
 ### Basic
-- [ ] Swift Boots
-- [ ] Windtalker
-- [ ] Berserker's Fury
-- [ ] Wind of Nature or Haas's Claw
-- [ ] Malefic Roar
-- [ ] Immortality
+- [ ] - Swift Boots
+- [ ] - Windtalker
+- [ ] - Berserker's Fury
+- [ ] - Wind of Nature / Haas's Claw
+- [ ] - Malefic Roar
+- [ ] - Immortality
 
 ----
 
