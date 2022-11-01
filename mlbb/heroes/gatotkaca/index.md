@@ -9,8 +9,8 @@
 - Kill 2, 1, 3, 2, 1
 
 ## Skills
-- Get Skill 2 then
-- 1, 3, 2
+- Start: Skill 2 and kill MID!
+- 1, 2, 3
 
 ### Basic
 - [ ] Magic Boots
