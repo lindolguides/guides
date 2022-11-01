@@ -10,8 +10,8 @@
 - Kill 1, 2, 3, 1
 
 ## Skills
-- Get Skill 2 (for slow) then...
-- Level priority: 3, 2, 1
+- Start: Skill 2
+- Priority: 3, 2, 1
 
 ### Basic
 - [ ] Swift Boots
