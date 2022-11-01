@@ -9,6 +9,8 @@
 - Kill 1, 2, 3, 1
 
 ## Skills
+- Get Skill 2 then...
+- Level priority: 1, 3, 2
 
 ### Basic
 - [ ] Arcane Boots
