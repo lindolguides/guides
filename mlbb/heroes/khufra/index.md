@@ -13,12 +13,12 @@
 - Priority: 1, 3, 2
 
 ### Basic
-- [ ] Tough Boots
-- [ ] Dominance Ice
-- [ ] Radiant Armor
-- [ ] Cursed Helmet
-- [ ] Immortality
-- [ ] Winter Truncheon
+- [ ] - Tough Boots
+- [ ] - Dominance Ice
+- [ ] - Radiant Armor
+- [ ] - Cursed Helmet
+- [ ] - Immortality
+- [ ] - Winter Truncheon
 
 ----
 
