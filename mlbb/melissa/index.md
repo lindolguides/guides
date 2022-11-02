@@ -10,15 +10,15 @@
 
 ## Skills
 - Start: Skill 2
-- Priority: 2, 3, 1
+- Priority: 1, 3, 2
 
 ### Basic
+- Demon Hunter Sword
 - Swift Boots
-- Windtalker
+- Corrosion Scythe
 - Berserker's Fury
-- Scarlet Phantom
 - Malefic Roar
-- Haas's Claw
+- Immortality/Athena's Shield
 
 ----
 
