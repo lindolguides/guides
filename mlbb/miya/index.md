@@ -2,7 +2,7 @@
 
 ----
 
-# Layla
+# Miya
 
 ## 30s
 - FARM BOT MODE! Only assists early 12mins - goal is zero deaths
@@ -11,15 +11,15 @@
 
 ## Skills
 - Start: Skill 2
-- Priority: 3, 2, 1
+- Priority: 3, 1, 2
 
 ### Basic
 - Swift Boots
 - Windtalker
-- Berserker's Fury
-- Wind of Nature / Haas's Claw
+- Scarlet Phantom
+- Wind of Nature
+- Demon Hunter Sword
 - Malefic Roar
-- Immortality
 
 ----
 

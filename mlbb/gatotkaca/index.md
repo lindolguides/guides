@@ -13,28 +13,28 @@
 - 1, 2, 3
 
 ### Basic
-- [ ] - Tough Boots
-- [ ] - Dominance Ice
-- [ ] - Radiant Armor
-- [ ] - Immortality
-- [ ] - Cursed Helmet
-- [ ] - Concentrated Energy
+- Tough Boots
+- Dominance Ice
+- Radiant Armor
+- Immortality
+- Cursed Helmet
+- Concentrated Energy
 
 ### Anti MM
-- [ ] - Warrior Boots
-- [ ] - Dominance Ice
-- [ ] - Antique Curiass
-- [ ] - Immortality
-- [ ] - Thunder Belt
-- [ ] - Blade Armor
+- Warrior Boots
+- Dominance Ice
+- Antique Curiass
+- Immortality
+- Thunder Belt
+- Blade Armor
 
 ### Jungle
-- [ ] - Arcane Boots
-- [ ] - Genius Wand
-- [ ] - Concentrated Energy
-- [ ] - Holy Crystal
-- [ ] - Divine Glaive
-- [ ] - Immortality
+- Arcane Boots
+- Genius Wand
+- Concentrated Energy
+- Holy Crystal
+- Divine Glaive
+- Immortality
 
 ----
 

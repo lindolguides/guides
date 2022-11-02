@@ -19,12 +19,14 @@
 
 ## Heroes
 
-- [Eudora](./eudora/)
-- [Gatotkaca](./gatotkaca/)
-- [Jawhead](./jawhead/)
-- [Khufra](./khufra/)
-- [Layla](./layla/)
-- [Valir](./valir/)
+- [Eudora (mid)](./eudora/)
+- [Gatotkaca (exp/roam)](./gatotkaca/)
+- [Jawhead (Exp/roam)](./jawhead/)
+- [Khufra (roam)](./khufra/)
+- [Layla (gold)](./layla/)
+- [Melissa (gold)](./melissa/)
+- [Miya (gold)](./miya/)
+- [Valir (mid)](./valir/)
 
 ----
 
