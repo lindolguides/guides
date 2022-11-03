@@ -15,8 +15,8 @@
 ### Basic
 - Demon Hunter Sword
 - Swift Boots
-- Corrosion Scythe
 - Berserker's Fury
+- Wind of Nature
 - Malefic Roar
 - Immortality/Athena's Shield
 
