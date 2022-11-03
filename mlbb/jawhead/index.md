@@ -15,12 +15,12 @@
 -  Priority: 1, 2, 3
 
 ### Basic
-- Tough Boots
-- Dominance Ice
-- Hunter Strike
-- Thunder Belt
+- Tough Boots - lower cc duration
+- Dominance Ice - armor, faster movespeed, slow enemy attack, less enemy healing
+- Cursed Helmet - harass, hp, magic armor
+- Athena's Shield - magic armor, def
 - Immortality
-- Athena's Shield
+- Blade Armor / Sky Guardian Helmet
 
 ### Damage
 - Tough Boots
