@@ -17,6 +17,14 @@
 - [Blessing](./blessing/)
 
 
+## Basic Builds
+
+- [Tank](./tank/)
+- [Marksman](./marksman/)
+- [Fighter](./fighter)
+- [Fighter Magic](./fightermagic/)
+- [Mage](./mage/)
+
 ## Heroes
 
 - [Eudora (mid)](./eudora/)
