@@ -17,8 +17,8 @@
 - Windtalker
 - Berserker's Fury
 - Wind of Nature
-- Malefic Roar
-- Immortality
+- Athena's Shield (mage enemy) / Immortality
+- Malefic Roar (heavy armor)/Scarlet Phantom
 
 ----
 
