@@ -30,6 +30,7 @@
 - [Eudora (mid)](./eudora/)
 - [Gatotkaca (exp/roam)](./gatotkaca/)
 - [Jawhead (Exp/roam)](./jawhead/)
+- [Irithel](./irithel/)
 - [Khufra (roam)](./khufra/)
 - [Layla (gold)](./layla/)
 - [Melissa (gold)](./melissa/)
