@@ -24,6 +24,7 @@
 - [Fighter](./fighter)
 - [Fighter Magic](./fightermagic/)
 - [Mage](./mage/)
+- [Jungle Tank](./jungletank/)
 
 ## Heroes
 
