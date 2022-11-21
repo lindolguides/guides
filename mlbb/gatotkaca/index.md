@@ -17,7 +17,7 @@
 - Dominance Ice
 - Radiant Armor
 - Immortality
-- Cursed Helmet
+- Cursed Helmet / Athena's Shield
 - Concentrated Energy
 
 ### Anti MM
