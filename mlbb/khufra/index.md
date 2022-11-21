@@ -14,11 +14,11 @@
 
 ### Basic
 - Tough Boots
+- Cursed Helmet
+- Immortality
 - Dominance Ice
 - Athena's Shield
-- Immortality
-- Cursed Helmet
-- Winter Truncheon / Blade of Despair
+- Thunder Belt / Blade of Despair
 
 ----
 
