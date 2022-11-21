@@ -15,10 +15,10 @@
 ### Basic
 - Tough Boots
 - Dominance Ice
-- Radiant Armor
-- Cursed Helmet
+- Athena's Shield
 - Immortality
-- Winter Truncheon
+- Cursed Helmet
+- Winter Truncheon / Blade of Despair
 
 ----
 
