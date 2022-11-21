@@ -29,9 +29,11 @@
 ## Heroes
 
 - [Eudora (mid)](./eudora/)
+- [Franco (roam)](./franco/)
 - [Gatotkaca (exp/roam)](./gatotkaca/)
 - [Jawhead (Exp/roam)](./jawhead/)
 - [Irithel](./irithel/)
+- [Kaja (roam)](./kaja/)
 - [Khufra (roam)](./khufra/)
 - [Layla (gold)](./layla/)
 - [Melissa (gold)](./melissa/)
