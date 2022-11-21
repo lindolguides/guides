@@ -6,11 +6,11 @@
  
 ### Basic
 - Tough Boots
-- Dominance Ice
-- Radiant Armor
 - Cursed Helmet
+- Thunder Belt
 - Immortality
-- Sky Guardian Helmer
+- Dominance Ice
+- Athena Shield
 
 
 ----
