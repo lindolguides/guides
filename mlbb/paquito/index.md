@@ -18,7 +18,7 @@
 - chase: 2[*213*]
 
 ### Kill 3stacks
-- 3[*213*]3 - wave
+- 3[3*21*]*3* - wave
 - 2[*213*]2 - burst
 - 1[132]1 - shield
 
