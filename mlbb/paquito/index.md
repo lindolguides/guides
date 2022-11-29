@@ -9,8 +9,9 @@
 ### Basic
 - any: x213xy - attacks revolves around this combo
 - 2: 1[1xx]1 - high shield
-- 0: [*213*]
-- 2: 
+- 0: 213-3
+- 1: 23-21
+- 2: 2-213
 
 
 ### Laning (2stacks)
