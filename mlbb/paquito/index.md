@@ -4,10 +4,12 @@
 
 # Paquito
 
-## 1stack ( level 3 and up)
-- cc: 213_3
-- def: 321_1
-- off: 322_1
+## stacks
+- 0s: 213-3 getaway
+- 2s: 2-213 kill
+- 2s: 2-133 cc
+- 3s: 3-213-3 team fight
+
 
 ## Skills
 - Start: Skill 2 (stack 2 so you can 22 opener)
