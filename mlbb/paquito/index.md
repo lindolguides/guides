@@ -7,7 +7,8 @@
 ## Combos
 
 ### Basic
-- 2132
+- any: 213 - attacks revolves around this combo
+- 2s: 11 - high shield
 
 ### Clear wave
 - 2s: 3[321]
