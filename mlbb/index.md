@@ -38,6 +38,7 @@
 - [Layla (gold)](./layla/)
 - [Melissa (gold)](./melissa/)
 - [Miya (gold)](./miya/)
+- [Paquito (Exp/Jungle)](./paquito/)
 - [Valir (mid)](./valir/)
 
 ----
