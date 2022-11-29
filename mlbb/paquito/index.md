@@ -32,7 +32,7 @@
 - Boots
 - Bloodlust Axe (regen)
 - Hunter Strike (damage) - 5 attacks you can run out or chase (every 8s)
-- Guardian Helm (sustain)
+- Queen's Wing / Guardian Helm (sustain)
 - Immortality
 - Athena's Shield (magic) / Dominance Ice (physical) / Malefic Roar (pen)
 
