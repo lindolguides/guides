@@ -7,11 +7,11 @@
 ## Combos
 
 ### Clear wave
-- 2s: 3321 or 3213
+- 2s: 3[321]
 
 ### Laning (2stacks)
 - cc: 2[133]
-- shield: 1[132]
+- back: 1[132]
 
 ### Kill
 - 2s: 2[213]2 - far
