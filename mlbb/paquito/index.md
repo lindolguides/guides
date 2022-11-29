@@ -6,21 +6,26 @@
 
 ## Combos
 
+### Basic
+- 2132
+
 ### Clear wave
 - 2s: 3[321]
 
 ### Laning (2stacks)
 - cc: 2[133]
-- back: 1[132]
+- chase: 2[213]
 
-### Kill
-- 2s: 2[213]2 - far
-- 3s: 2[321]2 - near
-- 3s cc: 3[321]3 - anti stun
+### Kill 3stacks
+- 2[132]2 - near (pre 213)
+- 2[213]2 - far (post 213)
+- 3[213]3 - cc (post 213)
+- 1[321]1 - low hp (pre 321)
+
 
 ## Skills
 - Start: Skill 2 (stack 2 so you can 22 opener)
-- Level2 kill: start 2stack, 221
+- Level2 kill: start 2stack, 212 or 221
 - Priority: 3, 2, 1
 
 ### Basic
