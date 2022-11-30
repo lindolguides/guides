@@ -39,6 +39,14 @@
 - Immortality
 - Athena's Shield (magic) / Dominance Ice (physical) / Malefic Roar (pen)
 
+### Basic
+- Boots
+- Bloodlust Axe (regen)
+- Hunter Strike (damage) - 5 attacks you can run out or chase (every 8s)
+- Queen's Wings
+- Guardian Helm
+- Immortality
+
 ### Damage
 - Boots
 - Bloodlust Axe (regen)
