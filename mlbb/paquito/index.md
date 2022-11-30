@@ -47,12 +47,20 @@
 - Guardian Helm
 - Immortality
 
-### Damage
+### Tank
 - Boots
 - Bloodlust Axe (regen)
+- Queen's Wings
+- Dominance Ice
+- Athena's Shield
+- Immortality
+
+### Damage
+- Boots
 - Hunter Strike (damage) - 5 attacks you can run out or chase (every 8s)
-- Blade of the Heptaseas (Burst)
 - Malefic Roar (High nemy armor) or Blade of Despair (damage)
+- Bloodlust Axe (regen)
+- Blade of the Heptaseas (Burst)
 - Immortality
 
 
