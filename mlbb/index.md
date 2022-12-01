@@ -28,17 +28,18 @@
 
 ## Heroes
 
+- [Chou (exp/roam)](./chou/)
 - [Eudora (mid)](./eudora/)
 - [Franco (roam)](./franco/)
 - [Gatotkaca (exp/roam)](./gatotkaca/)
-- [Jawhead (Exp/roam)](./jawhead/)
-- [Irithel](./irithel/)
-- [Kaja (roam)](./kaja/)
+- [Jawhead (exp/roam)](./jawhead/)
+- [Irithel (gold)](./irithel/)
+- [Kaja (core/roam)](./kaja/)
 - [Khufra (roam)](./khufra/)
 - [Layla (gold)](./layla/)
 - [Melissa (gold)](./melissa/)
 - [Miya (gold)](./miya/)
-- [Paquito (Exp/Jungle)](./paquito/)
+- [Paquito (core/exp/roam)](./paquito/)
 - [Valir (mid)](./valir/)
 
 ----
