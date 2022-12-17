@@ -29,6 +29,7 @@
 ## Heroes
 
 - [Chou (exp/roam)](./chou/)
+- [Clint(exp/gold)](./clint/)
 - [Eudora (mid)](./eudora/)
 - [Franco (roam)](./franco/)
 - [Gatotkaca (exp/roam)](./gatotkaca/)
