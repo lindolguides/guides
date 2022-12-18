@@ -28,6 +28,7 @@
 
 ## Heroes
 
+- [Aamon (core)](./aamon/)
 - [Chou (exp/roam)](./chou/)
 - [Clint(exp/gold)](./clint/)
 - [Eudora (mid)](./eudora/)
