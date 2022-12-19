@@ -7,6 +7,8 @@
 *This page is located at [https://lindolguides.github.io/guides/mlbb/](https://lindolguides.github.io/guides/mlbb/)*\
 *Feel free to update the pages and open a pull request*
 
+## Calculator
+- [MLBB Calculator](https://bytiger.com/mobile-legend-skills)
 
 ## Items
 
