@@ -17,7 +17,7 @@
 - Bloodlust Axe
 - Blade of Despair
 - Brute Force or Dominance Ice
-- Malefic Roar (or another def item)
+- Malefic Roar (or Hunter Strike or another def item)
 - Immortality
 
 
