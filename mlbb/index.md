@@ -9,6 +9,7 @@
 
 ## Calculator
 - [MLBB Calculator](https://bytiger.com/mobile-legend-skills)
+- [MLBB ranking](https://www.mlbb.ninja)
 
 ## Items
 
