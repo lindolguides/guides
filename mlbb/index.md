@@ -41,6 +41,7 @@
 - [Kaja (core/roam)](./kaja/)
 - [Khufra (roam)](./khufra/)
 - [Layla (gold)](./layla/)
+- [Martis (exp/core)](./martis/)
 - [Melissa (gold)](./melissa/)
 - [Miya (gold)](./miya/)
 - [Paquito (core/exp/roam)](./paquito/)
