@@ -33,6 +33,7 @@
 - [Aamon (core)](./aamon/)
 - [Chou (exp/roam)](./chou/)
 - [Clint(exp/gold)](./clint/)
+- [Cyclops(core)](./cyclops/)
 - [Eudora (mid)](./eudora/)
 - [Franco (roam)](./franco/)
 - [Gatotkaca (exp/roam)](./gatotkaca/)
