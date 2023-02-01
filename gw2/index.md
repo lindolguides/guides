@@ -8,5 +8,7 @@
 - [Hardstuck](https://hardstuck.gg/)
 - [My current guild](https://tiny.cc/gw2ksc)
 
+# Guides
+- [Weapons](./weapons/)
 
 [Back to top](./#)
