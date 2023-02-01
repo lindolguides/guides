@@ -1,3 +1,5 @@
+[Back](../)
+
 # TWO HANDED
 
 ## GreatSword
@@ -80,3 +82,6 @@ Skill # | Skill Name           | Cast+Channel | Cooldown
 --------|----------------------|--------------|---------
 4       | Shield of Judgment   | 0.5          | 20
 5       | Shield of Absorption | 4.0          | 24
+
+
+[Back to top](./#)
