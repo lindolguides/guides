@@ -2,6 +2,8 @@
 
 # TWO HANDED
 
+All channeling are cancelled when you perform another attack or you move (some skills allows you to move as indicated below)
+
 ## GreatSword
 
 Skill # | Skill Name            | Cast+Channel | Cooldown
@@ -71,10 +73,10 @@ Skill # | Skill Name      | Cast+Channel | Cooldown
 
 ## Torch
 
-Skill # | Skill Name      | Cast+Channel | Cooldown
---------|-----------------|--------------|---------
-4       | Zealot's Flame  | 0.75         | 15
-5       | Cleansing Flame | 3.25         | 15
+Skill # | Skill Name      | Cast+Channel | Cooldown | Notes
+--------|-----------------|--------------|----------|------
+4       | Zealot's Flame  | 0.75         | 15       | 
+5       | Cleansing Flame | 3.25         | 15       | You can move while this is channeling
 
 ## Shield
 
