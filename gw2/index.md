@@ -10,5 +10,6 @@
 
 # Guides
 - [Weapons](./weapons/)
+  - [Guardian](./weapons/guardian)
 
 [Back to top](./#)
