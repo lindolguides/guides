@@ -10,7 +10,7 @@ Skill # | Skill Name            | Cast+Channel | Cooldown | Description
 --------|-----------------------|--------------|----------|-
 1       | Strike                | 0.5          | 0 | Strike 3x - Attack with a final, powerful strike that applies might for each foe you strike. 
 2       | Whirling Wrath        | 2.5          | 8 | Spin in place and swing your greatsword while hurling powerful projectiles. 
-3       | Leap of Faith         | 0.5          | 15 | Leap at your foe. Inflicts blindness and heals you for each foe hit. 
+3       | Leap of Faith         | 0.5          | 10 | Leap at your foe. Inflicts blindness and heals you for each foe hit. 
 4       | Symbol of Resolution  | 0.25         | 12 | Symbol. Pierce the ground with a mystic symbol that damages foes while granting resolution to allies. 
 5       | Binding Blade         | 0.75         | 25 | Throw blades at your foes, causing damage over time. Bound foes can be pulled to you. The effect ends when a foe moves out of range. Cast again to pull targets
 
@@ -68,7 +68,7 @@ Skill # | Skill Name       | Cast+Channel | Cooldown | Description
 
 Skill # | Skill Name      | Cast+Channel | Cooldown | Description
 --------|-----------------|--------------|----------|-
-4       | Ray of Judgment | 0.75         | 15 | Infuse your foe with the light of judgment, inflicting damage each interval if they are initially struck. 
+4       | Ray of Judgment | 0.75         | 20 | Infuse your foe with the light of judgment, inflicting damage each interval if they are initially struck. 
 5       | Shield of Wrath | 0.5          | 35 | Create a shield to block the next three attacks. If the shield is not destroyed, it explodes and damages nearby foes. 
 
 ## Torch
