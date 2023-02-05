@@ -3,14 +3,32 @@
 # BUILDS
 
 ## PvE
-### [Power - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian_(PvE)) - Zeal/Radiance/Virtues
+### [Power - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian_(PvE)) 
+- Spec: Zeal(323)/Radiance(333)/Virtues(113) or Honor(322)
+- Set: Berserker
+- Sigil: Force,Accuracy
+- Rune: Scholar
 
 ## PvP
-### [Burn/Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Burst_Burning) - Radiance/Valor/Virtues
-### [Support - Staff / Mace-Shield](https://metabattle.com/wiki/Build:Guardian_-_Core_Shout_Support) - Honor/Valor/Virtues
+### [Burn/Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Burst_Burning)
+- Spec: Radiance(221)/Valor(222)/Virtues(221)
+- Set: 
+- Sigil: Exposure,Doom. Sustain: Energy,Cleansing
+- Rune: Traveler
+
+### [Support - Staff / Mace-Shield](https://metabattle.com/wiki/Build:Guardian_-_Core_Shout_Support)
+- Spec: Honor(223)/Valor(122)/Virtues(223)
+- Set: 
+- Sigil: Transference,Energy
+- Rune: Soldier
+- UI: "Thick party health bars" and "Always show health bars"
 
 ## WvW
-### [Strike - Staff / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian) - Zeal/Radiance/Virtues
+### [Strike - Staff / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian)
+- Spec: Zeal(223)/Radiance(133)/Virtues(113)
+- Set: Marauder
+- Sigil: Bloodlust,Energy,Force
+- Rune: Scholar
 
 
 # WEAPONS
