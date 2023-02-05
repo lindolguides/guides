@@ -9,7 +9,6 @@
 - [My current guild](https://tiny.cc/gw2ksc)
 
 # Guides
-- [Builds](./builds/)
-  - [Guardian](./builds/guardian)
+- [Guardian](./guardian)
 
 [Back to top](./#)
