@@ -1,10 +1,25 @@
 [Back](../)
 
-# TWO HANDED
+# BUILDS
+
+## PvE
+### [Power - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian_(PvE)) - Zeal/Radiance/Virtues
+
+## PvP
+### [Burn/Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Burst_Burning) - Radiance/Valor/Virtues
+### [Support - Staff / Mace-Shield](https://metabattle.com/wiki/Build:Guardian_-_Core_Shout_Support) - Honor/Valor/Virtues
+
+## WvW
+### [Strike - Staff / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian) - Zeal/Radiance/Virtues
+
+
+# WEAPONS
+
+## TWO HANDED
 
 All channeling are cancelled when you perform another attack or you move (some skills allows you to move as indicated below)
 
-## GreatSword
+### GreatSword
 
 Skill # | Skill Name            | Cast+Channel | Cooldown | Description
 --------|-----------------------|--------------|----------|-
@@ -14,7 +29,7 @@ Skill # | Skill Name            | Cast+Channel | Cooldown | Description
 4       | Symbol of Resolution  | 0.25         | 12 | Symbol. Pierce the ground with a mystic symbol that damages foes while granting resolution to allies. 
 5       | Binding Blade         | 0.75         | 25 | Throw blades at your foes, causing damage over time. Bound foes can be pulled to you. The effect ends when a foe moves out of range. Cast again to pull targets
 
-## Hammer
+### Hammer
 
 Skill # | Skill Name       | Cast+Channel | Cooldown | Description
 --------|------------------|--------------|----------|-
@@ -24,7 +39,7 @@ Skill # | Skill Name       | Cast+Channel | Cooldown | Description
 4       | Banish           | 1.0          | 15 | Launch your foe with a powerful smash. 
 5       | Ring of Warding  | 0.75         | 25 | Ward. Create a ring around you that foes cannot cross. Trapped foes cannot exit the ring while it is active. 
 
-## Staff
+### Staff
 
 Skill # | Skill Name          | Cast+Channel | Cooldown | Description
 --------|---------------------|--------------|----------|-
@@ -35,9 +50,9 @@ Skill # | Skill Name          | Cast+Channel | Cooldown | Description
 5       | Line of Warding     | 1.0          | 30 | Ward. Create a line in front of you that foes cannot cross. 
 
 
-# MAIN HAND
+## MAIN HAND
 
-# Mace
+### Mace
 
 Skill # | Skill Name         | Cast+Channel | Cooldown | Description
 --------|--------------------|--------------|----------|-
@@ -45,7 +60,7 @@ Skill # | Skill Name         | Cast+Channel | Cooldown | Description
 2       | Symbol of Faith    | 1.25         | 8 | Symbol. Smash a mystic symbol onto the ground that damages foes and regenerates allies. 
 3       | Protector's Strike | 3.75         | 15 | Protect allies from the next incoming attack against them, and lash out when attacked, granting boons to nearby allies and fully charging the passive burning effect. 
 
-## Scepter
+### Scepter
 
 Skill # | Skill Name           | Cast+Channel | Cooldown | Description
 --------|----------------------|--------------|----------|-
@@ -53,7 +68,7 @@ Skill # | Skill Name           | Cast+Channel | Cooldown | Description
 2       | Symbol of Punishment | 0.25         | 8 | Symbol. Create a symbol on the ground that strikes foes and grants might to nearby allies. 
 3       | Chains of Light      | 0.5          | 20 | Immobilize and make your foe vulnerable with ethereal chains. 
 
-## Sword
+### Sword
 
 Skill # | Skill Name       | Cast+Channel | Cooldown | Description
 --------|------------------|--------------|----------|-
@@ -62,23 +77,23 @@ Skill # | Skill Name       | Cast+Channel | Cooldown | Description
 3       | Zealot's Defense | 3.0          | 15 | Block ranged attacks while casting magical projectiles. 
 
 
-# OFF HAND
+## OFF HAND
 
-## Focus
+### Focus
 
 Skill # | Skill Name      | Cast+Channel | Cooldown | Description
 --------|-----------------|--------------|----------|-
 4       | Ray of Judgment | 0.75         | 20 | Infuse your foe with the light of judgment, inflicting damage each interval if they are initially struck. 
 5       | Shield of Wrath | 0.5          | 35 | Create a shield to block the next three attacks. If the shield is not destroyed, it explodes and damages nearby foes. 
 
-## Torch
+### Torch
 
 Skill # | Skill Name      | Cast+Channel | Cooldown | Description
 --------|-----------------|--------------|----------|------------
 4       | Zealot's Flame  | 0.75         | 15       | Set yourself alight, periodically burning up to three nearby foes. The final pulse applies additional burning. Cast again to - Throw your Zealot's Flame to damage the targeted foe.
 5       | Cleansing Flame | 3.25         | 15       | Breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack. _(You can move while this is channeling)_
 
-## Shield
+### Shield
 
 Skill # | Skill Name           | Cast+Channel | Cooldown | Description
 --------|----------------------|--------------|----------|-
