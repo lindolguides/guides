@@ -13,7 +13,7 @@
 
 ### [Radiant - Hammer or Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Radiant_Greatsword_(PvP))
 - Spec: Radiance(333)/Valor(222)/Virtues(123)
-- Set: 
+- Set: Valkyrie
 - Sigil: Exposure, Energy 
 - Rune: Lynx, Amulet Valkyrie
 
