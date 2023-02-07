@@ -10,6 +10,13 @@
 - Rune: Scholar
 
 ## PvP
+
+### [Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Radiant_Greatsword_(PvP))
+- Spec: Radiance(333)/Valor(222)/Virtues(123)
+- Set: 
+- Sigil: Exposure, Energy 
+- Rune: Lynx, Amulet Valkyrie
+
 ### [Burn/Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Burst_Burning)
 - Spec: Radiance(221)/Valor(222)/Virtues(221)
 - Set: 
