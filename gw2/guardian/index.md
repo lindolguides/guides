@@ -11,7 +11,7 @@
 
 ## PvP
 
-### [Radiant Claymore - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Radiant_Greatsword_(PvP))
+### [Radiant - Hammer or Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Radiant_Greatsword_(PvP))
 - Spec: Radiance(333)/Valor(222)/Virtues(123)
 - Set: 
 - Sigil: Exposure, Energy 
