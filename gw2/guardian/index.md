@@ -9,9 +9,9 @@
 - Sigil: Force,Accuracy
 - Rune: Scholar
 - 
-### [Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Core_Condition)
-- Spec: Zeal(331)/Radiance(121)/Virtues(311) or Honor
-- Set: Morbach
+### [Range Condi - Scepter-Torch / Staff](https://metabattle.com/wiki/Build:Guardian_-_Core_Condition)
+- Spec: Zeal(331)/Radiance(121 or 321)/Virtues(311) or Honor(332)
+- Set: Celestial / Viper
 - Sigil: Geomancy, Bursting
 - Rune: Balthazar
 
