@@ -1,5 +1,13 @@
 [Back](../)
 
+# VIRTUES
+Skill	| Cast | Cooldown | Description
+------|------|----------|------------
+![image](https://user-images.githubusercontent.com/116867913/219849732-bd294b44-b66f-47e0-80f9-fc673aa82c64.png) - F1 - Virtue of Justice | | 20s | Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.
+![image](https://user-images.githubusercontent.com/116867913/219849736-301eae20-3557-4d88-8029-fe26dcc466a8.png) - F2 - Virtue of Resolve |  | 30s | Virtue: Regenerates health.<br>Activate: Heal yourself and nearby allies.
+![image](https://user-images.githubusercontent.com/116867913/219849742-f4766bd4-155c-48a2-ae60-28958955cd27.png) - F3 - Virtue of Courage |  | 45s | Virtue: Gain aegis periodically.<br>Activate: Grant aegis to yourself and nearby allies.
+
+
 # UTILITY SKILLS 
 ## HEALING (6)
 Skill	| Cast | Cooldown | Description
