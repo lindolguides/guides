@@ -25,8 +25,8 @@ Key | Skill | Description
 
 ### Healer / Team
 Key | Skill | Description
---|----------|-----------
-6* | Receive the Light!	Heal you and allies in a cone in front of you.
+----|-------|-----------
+6* | Receive the Light!	| Heal you and allies in a cone in front of you.
 7 | Save Yourselves! | Condition to Boons
 8 | Merciful Intervention | Blink/Heal
 9 | Signet of Mercy | Revive
