@@ -11,7 +11,7 @@ Key | Skill | CD | Description
 7* | Hold the Line | 25s | AOE Protection/Regen
 8* | Smite Condition | 20s | Condition = Damage
 9 | Advance! | 5s | Block/Movespeed
-0* | Feel My Wrath | 30s | Quickness
+0 | Renewed Focus | 90s | Invulnerable and reset virtues
 
 ### Team
 Key | Skill | Description
@@ -26,7 +26,7 @@ Key | Skill | Description
 ### Healer / Team
 Key | Skill | Description
 --|----------|-----------
-6* | Shelter | Block/Heal
+6* | Receive the Light!	Heal you and allies in a cone in front of you.
 7 | Save Yourselves! | Condition to Boons
 8 | Merciful Intervention | Blink/Heal
 9 | Signet of Mercy | Revive
