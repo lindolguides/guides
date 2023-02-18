@@ -1,12 +1,14 @@
 [Back](../)
 
-* - spammable skills
+`* - spammable skills
+7 - always instant cast skill
+9 - always manual cast
 
 ### Solo:
 Key | Skill | CD | Description
 ----|-------|----|------------
 6* | Shelter | 30s | Block/Heal
-7* | Hold the Line | 25s | Protection/Regeneration
+7* | Hold the Line | 25s | AOE Protection/Regen
 8* | Smite Condition | 20s | Condition = Damage
 9 | Advance! | 5s | Block/Movespeed
 0* | Feel My Wrath | 30s | Quickness
