@@ -1,5 +1,36 @@
 [Back](../)
 
+* - spammable skills
+
+### Solo:
+Key | Skill | CD | Description
+----|-------|----|------------
+6* | Shelter | 30s | Block/Heal
+7* | Hold the Line | 25s | Protection/Regeneration
+8* | Smite Condition | 20s | Condition = Damage
+9 | Advance! | 5s | Block/Movespeed
+0* | Feel My Wrath | 30s | Quickness
+
+### Team
+Key | Skill | Description
+----|-------|------------
+6* | Receive the Light! | Heal you and allies in a cone in front of you.
+7* | "Hold the Line!" | AOE Protection/Regen
+8* | "Stand Your Ground!" | Shout. Grant stability to yourself and allies
+9 | Signet of Mercy | Revive
+0 | Signet of Courage | Large Heal - full cast!
+
+
+### Healer / Team
+Key | Skill | Description
+--|----------|-----------
+6* | Shelter | Block/Heal
+7 | Save Yourselves! | Condition to Boons
+8 | Merciful Intervention | Blink/Heal
+9 | Signet of Mercy | Revive
+0 | Signet of Courage | Large Heal - full cast!
+
+
 # VIRTUES
 Skill	| Cast | Cooldown | Description
 ------|------|----------|------------
