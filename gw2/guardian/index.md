@@ -9,18 +9,18 @@
 Key | Skill | CD | Description
 ----|-------|----|-------------
 6* | Shelter | 30s | Block/Heal
-7* | Hold the Line | 25s | AOE Protection/Regen
-8* | Smite Condition | 20s | Condition = Damage
-9 | Advance! | 5s | Block/Movespeed
-0 | Renewed Focus | 90s | Invulnerable and reset virtues
+7* | Advance! | 5s | Block/Movespeed
+8* | Hold the Line | 25s | AOE Protection/Regen
+9* | Bane Signet | 30s | Passive: Power / Active: Knockdown
+0* | Feel My Wrath! | 30s | Quickness
 
 ### Team
 
 Key | Skill | Description
 ----|-------|-------------
 6* | Receive the Light! | Heal you and allies in a cone in front of you.
-7* | "Hold the Line!" | AOE Protection/Regen
-8* | "Stand Your Ground!" | Shout. Grant stability to yourself and allies
+7* | Advance! | Block/Movespeed
+8* | Hold the Line! | AOE Protection/Regen
 9 | Signet of Mercy | Revive
 0 | Signet of Courage | Large Heal - full cast!
 
@@ -30,7 +30,7 @@ Key | Skill | Description
 Key | Skill | Description
 ---|------|--------------
 6* | Receive the Light!	| Heal you and allies in a cone in front of you.
-7 | Save Yourselves! | Condition to Boons
+7* | Advance! | Block/Movespeed
 8 | Merciful Intervention | Blink/Heal
 9 | Signet of Mercy | Revive
 0 | Signet of Courage | Large Heal - full cast!
