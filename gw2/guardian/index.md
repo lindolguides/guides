@@ -5,6 +5,7 @@
 9 - always manual cast
 
 ### Solo:
+
 Key | Skill | CD | Description
 ----|-------|----|-------------
 6* | Shelter | 30s | Block/Heal
@@ -14,6 +15,7 @@ Key | Skill | CD | Description
 0 | Renewed Focus | 90s | Invulnerable and reset virtues
 
 ### Team
+
 Key | Skill | Description
 ----|-------|-------------
 6* | Receive the Light! | Heal you and allies in a cone in front of you.
@@ -24,6 +26,7 @@ Key | Skill | Description
 
 
 ### Healer / Team
+
 Key | Skill | Description
 ---|------|--------------
 6* | Receive the Light!	| Heal you and allies in a cone in front of you.
@@ -34,6 +37,7 @@ Key | Skill | Description
 
 
 # VIRTUES
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|----------------
 ![image](https://user-images.githubusercontent.com/116867913/219849732-bd294b44-b66f-47e0-80f9-fc673aa82c64.png) - F1 - Virtue of Justice | | 20s | Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.
@@ -42,7 +46,9 @@ Skill	| Cast | Cooldown | Description
 
 
 # UTILITY SKILLS 
+
 ## HEALING (6)
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|----------------
 ![image](https://user-images.githubusercontent.com/116867913/219849313-09fba7c6-8e9a-4853-8e2e-b51fa226b6c8.png) - Receive the Light! | 2.25s | 30s | Shout. Heal yourself and allies in a cone in front of you.
@@ -53,6 +59,7 @@ Skill	| Cast | Cooldown | Description
 ## UTLITY (7, 8, 9)
 
 ### CONSECRATION
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
 ![image](https://user-images.githubusercontent.com/116867913/219849337-1a6d70f6-86c5-4fea-88af-0826c9803c1b.png) - Hallowed Ground | 1s | 45s | Consecration. Consecrate the target area, granting stability to allies inside.
@@ -61,6 +68,7 @@ Skill	| Cast | Cooldown | Description
 ![image](https://user-images.githubusercontent.com/116867913/219849326-5d1baa66-e8c2-4b74-9e8b-b83b5e3e993a.png) - Wall of Reflection | | 25s | Consecration. Summon a barrier of mystic power that reflects projectiles.
 
 ### MEDITATION
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
 ![image](https://user-images.githubusercontent.com/116867913/219849475-c04be9a4-9101-4265-9b9c-118e4f96b9d1.png) - Contemplation of Purity | | 40s | Meditation. Convert the conditions you are suffering from into boons.
@@ -69,6 +77,7 @@ Skill	| Cast | Cooldown | Description
 ![image](https://user-images.githubusercontent.com/116867913/219849460-a9d4886d-46de-49cc-bfb4-e0ebc59b7e15.png) - Smite Condition | | 20s | Meditation. Cure conditions and damage nearby foes. Deal more damage if a condition is cured.
 
 ### SHOUT
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
 ![image](https://user-images.githubusercontent.com/116867913/219849512-a3d8fb39-64c5-4278-975b-76fa85f941a6.png) - "Hold the Line!" | | 25s | Shout. Grant protection and regeneration to allies.
@@ -77,6 +86,7 @@ Skill	| Cast | Cooldown | Description
 ![image](https://user-images.githubusercontent.com/116867913/219849505-63486134-cd5d-4a65-a7ff-0e906fbdbca6.png) - "Stand Your Ground!" | | 30s | Shout. Grant stability to yourself and allies.
 
 ### SIGNET
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
 ![image](https://user-images.githubusercontent.com/116867913/219849529-145bc0b1-7126-45d9-9b91-37d8f92aa397.png) - Bane Signet | 0.75s | 30s | Signet Passive: Improved Power <br> Signet Active: Knock down and damage your foe.
@@ -85,6 +95,7 @@ Skill	| Cast | Cooldown | Description
 ![image](https://user-images.githubusercontent.com/116867913/219849516-28058990-e8b8-4c51-97de-6d7c96d9d78a.png) - Signet of Wrath | 0.75s | 25s | Signet Passive: Grants you increased condition damage.<br> Signet Active: Immobilize your target.
 
 ### SPIRIT WEAPON
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|----------------
 ![image](https://user-images.githubusercontent.com/116867913/219849569-350e17c3-c1d9-426c-8da7-df96d2f3f220.png) - Bow of Truth | 0.5s | 1s | Spirit Weapon. Command the Bow of Truth to barrage a location with healing arrows.
@@ -93,6 +104,7 @@ Skill	| Cast | Cooldown | Description
 ![image](https://user-images.githubusercontent.com/116867913/219849552-73d17c99-220b-4a20-9690-9ac5d0b2fd03.png) - Sword of Justice | 0.5s | 1s | Spirit Weapon. Will the Sword of Justice to appear beside your enemy and attack nearby foes.
 
 ## ELITE (0)
+
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
 ![image](https://user-images.githubusercontent.com/116867913/219849133-d16aef48-b301-4fd5-870a-6f2d6d7fb0fe.png) - "Feel My Wrath!" | 0.25s | 30s |Shout. Grant fury and quickness to nearby allies. The duration of the quickness you grant yourself is doubled.
@@ -102,13 +114,16 @@ Skill	| Cast | Cooldown | Description
 # BUILDS
 
 ## PvE
+
 ### [Power - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian_(PvE)) 
+
 - Spec: Zeal(323)/Radiance(333)/Virtues(113) or Honor(322)
 - Set: Berserker
 - Sigil: Force,Accuracy
 - Rune: Scholar
 
 ### [Range Condi - Scepter-Torch / Staff](https://metabattle.com/wiki/Build:Guardian_-_Core_Condition)
+
 - Spec: Zeal(331)/Radiance(121 or 321)/Virtues(311) or Honor(332)
 - Set: Celestial / Viper
 - Sigil: Geomancy, Bursting
@@ -117,12 +132,14 @@ Skill	| Cast | Cooldown | Description
 ## PvP
 
 ### [Radiant - Hammer or Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Radiant_Greatsword_(PvP))
+
 - Spec: Radiance(333)/Valor(222)/Virtues(123)
 - Set: Valkyrie
 - Sigil: Exposure, Energy 
 - Rune: Lynx, Amulet Valkyrie
 
 ### [Burn/Condi - Sword-Focus / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Burst_Burning)
+
 - Spec: Radiance(221)/Valor(222)/Virtues(221)
 - Set: 
 - Sigil: Exposure,Doom. Sustain: Energy,Cleansing
@@ -130,6 +147,7 @@ Skill	| Cast | Cooldown | Description
 
 
 ### [Support - Staff / Mace-Shield](https://metabattle.com/wiki/Build:Guardian_-_Core_Shout_Support)
+
 - Spec: Honor(223)/Valor(122)/Virtues(223)
 - Set: 
 - Sigil: Transference,Energy
@@ -137,7 +155,9 @@ Skill	| Cast | Cooldown | Description
 - UI: "Thick party health bars" and "Always show health bars"
 
 ## WvW
+
 ### [Strike - Staff / Scepter-Torch](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian)
+
 - Spec: Zeal(223)/Radiance(133)/Virtues(113)
 - Set: Marauder
 - Sigil: Bloodlust,Energy,Force
