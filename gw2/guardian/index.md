@@ -14,7 +14,7 @@ Key | Skill | CD | Description
 9* | Bane Signet | 30s | Passive: Power / Active: Knockdown
 0* | Feel My Wrath! | 30s | Quickness
 
-### Team
+### Team / PVE
 
 Key | Skill | Description
 ----|-------|-------------
@@ -24,6 +24,16 @@ Key | Skill | Description
 9 | Signet of Mercy | Revive
 0 | Signet of Courage | Large Heal - full cast!
 
+
+### Team / PVP
+
+Key | Skill | Description
+----|-------|-------------
+6* | Receive the Light! | Heal you and allies in a cone in front of you.
+7* | Advance! | Block/Movespeed
+8* | Stand Your Ground! | Anti CC
+9 | Signet of Mercy | Revive
+0 | Signet of Courage | Large Heal - full cast!
 
 ### Healer / Team
 
@@ -80,10 +90,10 @@ Skill	| Cast | Cooldown | Description
 
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
-![image](https://user-images.githubusercontent.com/116867913/219849512-a3d8fb39-64c5-4278-975b-76fa85f941a6.png) - "Hold the Line!" | | 25s | Shout. Grant protection and regeneration to allies.
-![image](https://user-images.githubusercontent.com/116867913/219849510-79af5b73-8e86-47f9-b81a-2efa7413d615.png) - "Advance!" | | 5s | Shout. Grant aegis and swiftness to up to five nearby allies.
-![image](https://user-images.githubusercontent.com/116867913/219849508-89fcd8a9-90fa-4e82-b2c4-614af7911511.png) - "Save Yourselves!" | | 50s | Shout. Draw conditions from nearby allies to yourself. Gain multiple boons for a short duration.
-![image](https://user-images.githubusercontent.com/116867913/219849505-63486134-cd5d-4a65-a7ff-0e906fbdbca6.png) - "Stand Your Ground!" | | 30s | Shout. Grant stability to yourself and allies.
+![image](https://user-images.githubusercontent.com/116867913/219849512-a3d8fb39-64c5-4278-975b-76fa85f941a6.png) - Hold the Line! | | 25s | Shout. Grant protection and regeneration to allies.
+![image](https://user-images.githubusercontent.com/116867913/219849510-79af5b73-8e86-47f9-b81a-2efa7413d615.png) - Advance! | | 5s | Shout. Grant aegis and swiftness to up to five nearby allies.
+![image](https://user-images.githubusercontent.com/116867913/219849508-89fcd8a9-90fa-4e82-b2c4-614af7911511.png) - Save Yourselves! | | 50s | Shout. Draw conditions from nearby allies to yourself. Gain multiple boons for a short duration.
+![image](https://user-images.githubusercontent.com/116867913/219849505-63486134-cd5d-4a65-a7ff-0e906fbdbca6.png) - Stand Your Ground! | | 30s | Shout. Grant stability to yourself and allies.
 
 ### SIGNET
 
@@ -107,7 +117,7 @@ Skill	| Cast | Cooldown | Description
 
 Skill	| Cast | Cooldown | Description
 -----|-----|---------|---------------
-![image](https://user-images.githubusercontent.com/116867913/219849133-d16aef48-b301-4fd5-870a-6f2d6d7fb0fe.png) - "Feel My Wrath!" | 0.25s | 30s |Shout. Grant fury and quickness to nearby allies. The duration of the quickness you grant yourself is doubled.
+![image](https://user-images.githubusercontent.com/116867913/219849133-d16aef48-b301-4fd5-870a-6f2d6d7fb0fe.png) - Feel My Wrath! | 0.25s | 30s |Shout. Grant fury and quickness to nearby allies. The duration of the quickness you grant yourself is doubled.
 ![image](https://user-images.githubusercontent.com/116867913/219849195-5fed2c26-5101-4b53-9254-6c2290a65ba3.png) - Renewed Focus | 2s | 90s | Meditation. Focus, making yourself invulnerable and recharging your virtues.
 ![image](https://user-images.githubusercontent.com/116867913/219849204-a754f566-274a-4a61-9bd4-1871d641d7cb.png) - Signet of Courage | 2.5s | 60s | Signet Passive: Periodically heal allies in an area around you while in combat.<br>Signet Active: Channel healing and boons in a large area around you, concluding with a large heal if this skill is not interrupted.
 
