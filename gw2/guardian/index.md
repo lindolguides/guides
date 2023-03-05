@@ -4,6 +4,16 @@
 7 - always instant cast skill
 9 - always manual cast
 
+### Open World sword/scepter torch:
+
+Key | Skill | CD | Description
+----|-------|----|-------------
+6* | Shelter | 30s | Block/Heal
+7* | Advance! | 5s | Block/Movespeed
+8* | Hold the Line | 25s | AOE Protection/Regen
+9* | Bane Signet | 30s | Passive: Power / Active: Knockdown
+0* | Feel My Wrath! | 30s | Quickness
+
 ### Solo:
 
 Key | Skill | CD | Description
@@ -123,13 +133,25 @@ Skill	| Cast | Cooldown | Description
 
 # BUILDS
 
+## Open World
+
+
+### Sword-Torch / Scepter-Torch
+
+- Spec: Radiance(221/Honor(332)/Zeal(331) or Radiance(221)/Valor(222)/Virtues(221)- honor has passive healing/damagw on symbols 
+- Set: Celestial
+- Sigil: Exposure,Doom. Sustain: Energy,Cleansing
+- Rune: Traveler
+- Utility: 6-Litany of Wrath, 7-Sword of Justice,8-Purging Flames(Stand your ground),9-Bow of Truth,0-Signet of Courage
+
+
 ## PvE
 
 ### [Power - Greatsword / Sword-Focus](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian_(PvE)) 
 
 - Spec: Zeal(323)/Radiance(333)/Virtues(113) or Honor(322)
 - Set: Berserker
-- Sigil: Force,Accuracy
+- Sigil: Strength/Torment/Geomancy
 - Rune: Scholar
 
 ### [Range Condi - Scepter-Torch / Staff](https://metabattle.com/wiki/Build:Guardian_-_Core_Condition)
