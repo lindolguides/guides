@@ -284,4 +284,7 @@ Skill # | Skill Name           | Cast+Channel | Cooldown | Description
 5       | Shield of Absorption | 4.0          | 24 | Create a dome around you that pushes foes back and absorbs projectiles. Then - Detonate the dome to heal nearby allies.
 
 
+## NOTES
+- You use grenade 2, 4 and 5 off-cooldown for maximum DPS. 1 and 3 are generally not worth using (dps wise, 3 is a blind which can be useful but does no damage).
+
 [Back to top](./#)
